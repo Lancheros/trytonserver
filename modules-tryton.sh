@@ -21,24 +21,20 @@ message () {
 }
 
 echo '----------------------------------Inicio----------------------------------'
-echo 'Ingrese el nombre del usuario: '
-read SUDO_USER
 
 version='6.0'
 max_version='6.1'
 
 integer_version='60'
 venv='tryton'${integer_version}
-nameuser=${SUDO_USER}
-HOME_USER=/home/${SUDO_USER}/cdst
-file_bashrc=$HOME_USER'/.bashrc'
+HOME_USER=/home/trytonserver_1
 
-PYT_CMD=$HOME_USER/.virtualenvs/${venv}/bin/python3
+PYT_CMD=$HOME_USER/${venv}/bin/python3
 
 apt get update
 
 # Install PIP packages
-PIP_CMD=$HOME_USER/.virtualenvs/${venv}/bin/pip3
+PIP_CMD=$HOME_USER/${venv}/bin/pip3
 
 tryton_modules="
     trytond_country
