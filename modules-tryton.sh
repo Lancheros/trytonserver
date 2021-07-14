@@ -25,7 +25,7 @@ echo '----------------------------------Inicio----------------------------------
 version='6.0'
 max_version='6.1'
 
-integer_version='60'
+integer_version='6'
 venv='tryton'${integer_version}
 HOME_USER=/home/trytonserver_1
 
