@@ -88,10 +88,10 @@ tryton_modules="
     trytond_account_be
     trytond_account_deposit
     trytond_account_de_skr03
-    trytond_account_durning
-    trytond_account_durning_email
-    trytond_account_durning_free
-    trytond_account_durning_letter
+    trytond_account_dunning
+    trytond_account_dunning_email
+    trytond_account_dunning_free
+    trytond_account_dunning_letter
     trytond_account_invoice_line_standalone
     trytond_account_payment_clearing
     trytond_account_payment_sepa
@@ -104,8 +104,8 @@ tryton_modules="
     trytond_authentication_sms
     trytond_carrier_percentage
     trytond_carrier_weight
-    trytond_comission
-    trytond_comission_waiting
+    trytond_commission
+    trytond_commission_waiting
     trytond_customs
     trytond_dashboard
     trytond_edocument_uncefact
