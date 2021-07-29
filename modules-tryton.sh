@@ -85,12 +85,13 @@ tryton_modules="
     trytond_company_work_time
     trytond_project
     trytond_carrier
+    trytond_account_eu
     trytond_account_be
     trytond_account_deposit
     trytond_account_de_skr03
     trytond_account_dunning
     trytond_account_dunning_email
-    trytond_account_dunning_free
+    trytond_account_dunning_fee
     trytond_account_dunning_letter
     trytond_account_invoice_line_standalone
     trytond_account_payment_clearing
@@ -115,6 +116,7 @@ tryton_modules="
     trytond_notification_email
     trytond_party_relationship
     trytond_party_siret
+    trytond_product_classification
     trytond_product_classification_taxonomic
     trytond_product_measurements
     trytond_production_routing
@@ -131,6 +133,7 @@ tryton_modules="
     trytond_sale_stock_quantity
     trytond_sale_subscription
     trytond_sale_supply_drop_shipment
+    trytond_stock_lot
     trytond_stock_lot_sled
     trytond_stock_package
     trytond_stock_package_shipping
