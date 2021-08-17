@@ -1,0 +1,135 @@
+#!/bin/sh
+
+# Install Presik modules
+echo "[INFO] Installing trytonpsk modules... "
+
+modules="
+    account_co_pyme
+    account_col
+    account_exo
+    electronic_invoice_co
+    account_voucher
+    account_bank_statement
+    party_personal
+    company_department
+    reports
+    staff
+    staff_co
+    staff_event
+    staff_payroll
+    staff_payroll_co
+    staff_contracting
+    staff_access
+    staff_access_extratime
+    sale_goal
+    invoice_report
+    account_invoice_update
+    company_timezone
+    company_location
+    stock_duration
+    account_invoice_discount
+    product_onebarcode
+    product_reference
+    product_image
+    purchase_discount
+    purchase_editable_ine
+    sale_discount
+    sale_shop
+    sale_salesman
+    sale_pos
+    sale_cost
+    sale_contract
+    sale_pos_frontend
+    purchase_report
+    purchase_suggested
+    purchase_editable_line
+    party_reward_points
+    surveillance
+    email
+    sms
+    crm
+    dash
+    dash_sale
+    dash_stock
+    sale_web_channel
+    health
+    health_lab
+    staff_payroll_project
+    document
+    production_task
+    company_operation
+    health_services
+    health_inpatient
+    health_nursing
+    sale_pos_commission
+    maintenance
+    maintenance_indicators
+    maintenance_reading
+    utility_water
+    sale_pos_frontend_rest
+    production_accounting
+    staff_project
+    syncronize_companies
+    invoice_project
+    health_lifestyle
+    health_calendar
+    health_gyneco
+    property
+    account_invoice_discount_wizard
+    product_asset_attribute
+    purchase_request_plus
+    analytic_voucher
+    analytic_sale_pos
+    analytic_sale_contract
+    analytic_report
+    collection
+    electronic_mail_template
+    health_stock
+    commission_global
+    dash_surveillance
+    smtp
+    notification_document
+    real_estate
+    spa
+    audiovisual
+    document_expiration
+    document_collection
+    account_invoice_party_revenue
+    account_invoice_mail
+    farming
+    electronic_mail
+    analytic_mandatory
+    stock_package_shipping_coord
+    staff_access_biometric
+    staff_access_shield
+    staff_document_alert
+    staff_payroll_access
+    sale_pos_fixed
+    crm_fiduprevisora
+    hotel_zak
+    ims
+    party_technical
+    party_event
+    party_card
+    vps
+    sale_pos_synchronize
+    account_aus
+    account_co_health
+    account_export
+    health_who_essential_medicines
+    health_socioeconomics
+    health_optometry
+    health_icd10
+    health_history
+    health_gloss
+    health_functional
+    health_co
+    health_ambulance
+"
+
+for i in ${modules}
+    do
+        git clone https://bitbucket.org/presik/trytonpsk-$i.git
+    done
+echo "[INFO] Done. "
+
