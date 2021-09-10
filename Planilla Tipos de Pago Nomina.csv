@@ -1,3 +1,4 @@
+sequence;name;code;uom;definition;salary_constitute;unit_price_formula;expense_formula;default_quantity;type_concept;contract_finish;receipt;debit_account;credit_account;deduction_account
 10;SALARIO;;Hora;payment;True;salary / 240;;120;salary;False;True;510506;250505;
 12;SALUD;;Unidad;deduction;False;salary * 0.04;;1;health;False;True;;237005;250505
 14;PENSION;;Unidad;deduction;False;salary * 0.04;salary * 0.12;1;retirement;False;True;510570;238030;250505
