@@ -1,0 +1,54 @@
+10;SALARIO;;Hora;payment;True;salary / 240;;120;salary;False;True;510506;250505;
+12;SALUD;;Unidad;deduction;False;salary * 0.04;;1;health;False;True;;237005;250505
+14;PENSION;;Unidad;deduction;False;salary * 0.04;salary * 0.12;1;retirement;False;True;510570;238030;250505
+16;PRIMA DE SERVICIOS;;Unidad;payment;False;salary * 0.083333;;1;bonus_service;True;False;510536;252005;
+18;VACACIONES;;Día;payment;False;salary * 0.00276;;15;holidays;True;False;510539;252505;
+20;CESANTIAS;;Unidad;payment;False;salary * 0.083333;;1;unemployment;True;False;510530;251005;
+22;INTERESES CESANTIAS;;Unidad;payment;False;;;1;interest;True;False;510533;251505;
+24;AUX. TRANSPORTE;;Día;payment;True;3235;;15;transport;False;True;510527;250505;
+26;CAJA COMPENSACION;;Unidad;payment;False;salary * 0.04;;1;box_family;False;False;510572;237010;
+28;HEDO;;Hora;payment;True;(salary / 240) * 1.25;;0;extras;False;True;510515;250505;
+30;HENO;;Hora;payment;True;(salary / 240) * 1.75;;0;extras;False;True;510515;250505;
+32;HEDF;;Hora;payment;True;(salary / 240) * 2.00;;0;extras;False;True;510515;250505;
+34;HENF;;Hora;payment;True;(salary / 240) * 2.50;;0;extras;False;True;510515;250505;
+36;RECO;;Hora;payment;True;(salary / 240) * 0.35;;0;extras;False;True;510515;250505;
+38;RECF;;Hora;payment;True;(salary / 240) * 0.35;;0;extras;False;True;510515;250505;
+40;DOM;;Hora;payment;True;(salary / 240) * 1.75;;0;extras;False;True;510515;250505;
+42;RETENCION FUENTE;;Unidad;deduction;False;0;;0;tax;True;True;;;250505
+44;FONDO DE SOLIDARIDAD PENSIONAL;;Unidad;deduction;False;salary * 0.01;;0;other;False;True;;;250505
+46;COMISIONES;;Unidad;payment;True;;;0;salary;False;True;510518;250505;
+48;BONIFICACIONES;;Unidad;payment;True;;;0;bonus;False;True;510548;250505;
+50;DESCUENTOS;;Unidad;discount;False;;;0;other;False;True;;250505;250505
+52;ARL CLASE I;;Unidad;payment;False;salary * 0.00522;;1;risk;False;False;510568;237006;
+54;ARL CLASE II;;Unidad;payment;False;salary * 0.01044;;1;risk;False;False;510568;237006;
+56;ARL CLASE III;;Unidad;payment;False;salary * 0.02436;;1;risk;False;False;510568;237006;
+58;ARL CLASE IV;;Unidad;payment;False;salary * 0.0435;;1;risk;False;False;510568;237006;
+60;ARL CLASE V;;Unidad;payment;False;salary * 0.0696;;1;risk;False;False;510568;237006;
+62;INCAPACIDAD 1 A 2 DIAS;;Día;payment;True;(salary / 30 ) * 0.6667;;0;other;False;True;;250505;
+64;INCAPACIDAD MAYOR A 2 DIAS;;Día;payment;True;(salary / 30 ) * 0.6667;;0;other;False;True;;250505;
+66;LICENCIA DE MATERNIDAD;;Día;payment;True;salary / 30;;0;other;False;True;;250505;
+68;INCAPACIDAD ARL;;Día;payment;True;salary / 30;;0;other;False;True;;250505;
+100;SALARIO OPERATIVO;;Hora;payment;True;salary / 240;;120;salary;False;True;510506;250505;
+102;SALUD OPERATIVO;;Unidad;deduction;False;salary * 0.04;;1;health;False;True;;237005;250505
+104;PENSION OPERATIVO;;Unidad;deduction;False;salary * 0.04;salary * 0.12;1;retirement;False;True;510570;238030;250505
+106;PRIMA DE SERVICIOS OPERATIVO;;Unidad;payment;False;salary * 0.083333;;1;bonus_service;True;False;510536;252005;
+108;VACACIONES OPERATIVO;;Día;payment;False;salary * 0.001389;;15;holidays;True;False;510539;252505;
+110;CESANTIAS OPERATIVO;;Unidad;payment;False;salary * 0.083333;;1;unemployment;True;False;510530;251005;
+112;INTERESES CESANTIAS OPERATIVO;;Unidad;payment;False;;;1;interest;True;False;510533;251505;
+114;AUX. TRANSPORTE OPERATIVO;;Día;payment;True;2590;;15;transport;False;True;510527;250505;
+116;CAJA COMPENSACION OPERATIVO;;Unidad;payment;False;salary * 0.04;;1;box_family;False;False;510572;237010;
+118;HEDO OPERATIVO;;Hora;payment;True;(salary / 240) * 1.25;;0;extras;False;True;510515;250505;
+120;HENO OPERATIVO;;Hora;payment;True;(salary / 240) * 1.75;;0;extras;False;True;510515;250505;
+122;HEDF OPERATIVO;;Hora;payment;True;(salary / 240) * 2.00;;0;extras;False;True;510515;250505;
+124;HENF OPERATIVO;;Hora;payment;True;(salary / 240) * 2.50;;0;extras;False;True;510515;250505;
+126;RECO OPERATIVO;;Hora;payment;True;(salary / 240) * 0.35;;0;extras;False;True;510515;250505;
+128;RECF OPERATIVO;;Hora;payment;True;(salary / 240) * 0.35;;0;extras;False;True;510515;250505;
+130;DOM OPERATIVO;;Hora;payment;True;(salary / 240) * 1.75;;0;extras;False;True;510515;250505;
+132;RETENCION FUENTE;;Unidad;deduction;False;0;;0;tax;True;True;;;250505
+134;FONDO DE SOLIDARIDAD PENSIONAL;;Unidad;deduction;False;salary * 0.01;;0;other;False;True;;;250505
+136;BONIFICACIONES OPERATIVO;;Unidad;payment;True;;;0;bonus;False;True;510548;250505;
+138;ARL CLASE I OPERATIVO;;Unidad;payment;False;salary * 0.00522;;1;risk;False;False;510568;237006;
+140;ARL CLASE II OPERATIVO;;Unidad;payment;False;salary * 0.01044;;1;risk;False;False;510568;237006;
+142;ARL CLASE III OPERATIVO;;Unidad;payment;False;salary * 0.02436;;1;risk;False;False;510568;237006;
+144;ARL CLASE IV OPERATIVO;;Unidad;payment;False;salary * 0.0435;;1;risk;False;False;510568;237006;
+146;ARL CLASE V OPERATIVO;;Unidad;payment;False;salary * 0.0696;;1;risk;False;False;510568;237006;
