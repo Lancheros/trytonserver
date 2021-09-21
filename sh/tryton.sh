@@ -5,8 +5,6 @@
 # --------------------------------------------------------
 
 # Autor: Cristhian Lancheros, 14/07/2021
-# Nota: ejecute este script con un usuario (no root), así que no use sudo para ejecutarlo
-# Main functions/variables declaration
 
 # Colors constants
 NONE="$(tput sgr0)"
@@ -39,8 +37,6 @@ file_bashrc=$HOME_USER'/.bashrc'
 
 PYT_CMD=$HOME_USER/.virtualenvs/${venv}/bin/python3
 
-# apt get update
-
 # Install PIP packages
 PIP_CMD=$HOME_USER/.virtualenvs/${venv}/bin/pip3
 
@@ -52,11 +48,15 @@ message "[INFO] Installing main apt-get packages..." ${BLUE}
 
 appackages="
 	build-essential
-    python3
-    python3-virtualenv
+	python3
 	python3-pip
-    python3-venv
-    virtualenv
+	python3-virtualenv
+	libgirepository1.0-dev
+	libcairo2-dev
+	python-gi
+	python-gi-cairo 
+	gir1.2-gtksource-3.0
+	postgresql postgresql-contrib
 "
 
 for i in ${appackages}
@@ -76,3 +76,22 @@ virtualenv -p $(which python3) $HOME_USER/.virtualenvs/${venv}
 
 message "[INFO] Done." ${YELLOW}
 
+
+# Install PIP package
+message "[INFO] Installing main PIP packages..." ${BLUE}
+
+sudo pip install -U pip
+sudo pip3 install -U pip
+
+pippackages="
+    pygobject
+	psycopg2-binary
+	simpleeval
+	trytond
+	proteus
+"
+
+for i in ${pippackages}
+    do
+        ${PIP_CMD} install $i
+    done
