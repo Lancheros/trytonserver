@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # Author: Cristhian Lancheros 29/09/2021
-NAME="trytonds"
+NAME="strytond"
 DESC="Tryton"
 USER=sa
 HOMEX=/home/${USER}
