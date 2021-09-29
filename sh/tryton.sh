@@ -69,10 +69,10 @@ message "[INFO] Done." ${YELLOW}
 # Create Virtualenv
 message "[INFO] Creating virtualenv... $venv " ${BLUE}
 
+virtualenv -p $(which python3) $HOME_USER/.virtualenvs/${venv}
+
 echo $source_ >> $file_bashrc
 echo $export_ >> $file_bashrc
-
-virtualenv -p $(which python3) $HOME_USER/.virtualenvs/${venv}
 
 message "[INFO] Done." ${YELLOW}
 

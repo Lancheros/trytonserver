@@ -1,17 +1,17 @@
 #!/bin/sh
 
-# Author: Oscar Alvarez, 01/07/2016
-NAME="strytond"
+# Author: Cristhian Lancheros 29/09/2021
+NAME="trytonds"
 DESC="Tryton"
-PSKUSER=psk
-HOMEX=/home/${PSKUSER}
-NAME_ENV=tryton60
+USER=sa
+HOMEX=/home/${USER}
+NAME_ENV=tryton6
 VERSION="6.0"
 DAEMON="${HOMEX}/.virtualenvs/${NAME_ENV}/bin/trytond"
 
 PIDFILE="/var/run/$NAME.pid"
 
-CONFIG="${HOMEX}/.trytond/trytond.conf"
+CONFIG="${HOMEX}/trytond.conf"
 OPTIONS="-c $CONFIG"
 
 set -e
