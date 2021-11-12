@@ -33,7 +33,6 @@ echo "[INFO] Update Done. "
 for i in ${modules}
     do
         pip uninstall -y trytonpsk-$i
-        cd ..
     done
 echo "[INFO] Uninstall Complete !"
 
