@@ -1,5 +1,3 @@
-#!/bin/sh
-
 # Install Presik modules
 echo "[INFO] Installing trytonpsk modules... "
 
@@ -15,25 +13,33 @@ modules="
     staff_co
     staff_event
     staff_payroll
+    staff_payroll_access
     staff_payroll_co
     staff_contracting
     staff_access
     staff_access_extratime
-electronic_payroll
-staff_payroll_access
-email
+    electronic_payroll
+    email
 "
 
 for i in ${modules}
     do
-        git clone https://bitbucket.org/presik/trytonpsk-$i.git
+        cd trytonpsk-$i
+        git pull
+        cd ..
     done
-echo "[INFO] Download completed. "
+echo "[INFO] Update Done. "
+
+for i in ${modules}
+    do
+        pip uninstall -y trytonpsk-$i
+    done
+echo "[INFO] Uninstall Complete !"
 
 for i in ${modules}
     do
         cd trytonpsk-$i
-	python3 setup.py install
-	cd ..
+        python3 setup.py install
+        cd ..
     done
-echo "[INFO] Done. "
+echo "[INFO] Install Complete !"
