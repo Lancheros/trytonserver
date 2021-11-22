@@ -1,0 +1,11 @@
+# Script Tryton Server Presik Technologies
+
+[Unit]
+Description=Trytond Server
+
+[Service]
+ExecStart=/usr/local/bin/strytond_service start
+ExecStop=/usr/local/bin/strytond_service stop
+
+[Install]
+WantedBy=multi-user.target
