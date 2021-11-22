@@ -22,7 +22,7 @@ message () {
 
 echo '----------------------------------Inicio----------------------------------'
 
-version='6.0'
+version='6.0.0'
 
 #https://downloads.tryton.org/6.0/modules.txt
 tryton_modules="
