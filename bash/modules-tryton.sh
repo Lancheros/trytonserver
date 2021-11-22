@@ -22,13 +22,14 @@ message () {
 
 echo '----------------------------------Inicio----------------------------------'
 
-version='6.0.0'
+version='6.2'
 
-#https://downloads.tryton.org/6.0/modules.txt
+#https://downloads.tryton.org/6.2/modules.txt
 tryton_modules="
     account
     account_asset
     account_be
+    account_budget
     account_cash_rounding
     account_credit_limit
     account_deposit
@@ -48,6 +49,7 @@ tryton_modules="
     account_invoice_line_standalone
     account_invoice_secondary_unit
     account_invoice_stock
+    account_move_line_grouping
     account_payment
     account_payment_braintree
     account_payment_clearing
@@ -55,6 +57,7 @@ tryton_modules="
     account_payment_sepa_cfonb
     account_payment_stripe
     account_product
+    account_rule
     account_statement
     account_statement_aeb43
     account_statement_coda
@@ -64,9 +67,11 @@ tryton_modules="
     account_stock_continental
     account_stock_landed_cost
     account_stock_landed_cost_weight
+    account_stock_shipment_cost
     account_tax_cash
     account_tax_rule_country
     analytic_account
+    analytic_budget
     analytic_invoice
     analytic_purchase
     analytic_sale
@@ -83,6 +88,8 @@ tryton_modules="
     company_work_time
     country
     currency
+    currency_ro
+    currency_rs
     customs
     dashboard
     edocument_uncefact
@@ -105,6 +112,8 @@ tryton_modules="
     product_cost_fifo
     product_cost_history
     product_cost_warehouse
+    product_image
+    product_image_attribute
     product_kit
     production
     production_outsourcing
@@ -142,6 +151,7 @@ tryton_modules="
     sale_invoice_grouping
     sale_opportunity
     sale_payment
+    sale_point
     sale_price_list
     sale_product_customer
     sale_promotion
@@ -169,6 +179,8 @@ tryton_modules="
     stock_package
     stock_package_shipping
     stock_package_shipping_dpd
+    stock_package_shipping_mygls
+    stock_package_shipping_sendcloud
     stock_package_shipping_ups
     stock_product_location
     stock_quantity_early_planning
@@ -185,6 +197,7 @@ tryton_modules="
     timesheet_cost
     user_role
     web_shop
+    web_shop_shopify
     web_shop_vue_storefront
     web_shop_vue_storefront_stripe
     web_shortener
