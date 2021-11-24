@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Version #1.0-->
+<NominaIndividual xmlns="dian:gov:co:facturaelectronica:NominaIndividual"
+                  xmlns:xs="http://www.w3.org/2001/XMLSchema-instance"
+                  xmlns:ds="http://www.w3.org/2000/09/xmldsig#"
+                  xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2"
+                  xmlns:xades="http://uri.etsi.org/01903/v1.3.2#"
+                  xmlns:xades141="http://uri.etsi.org/01903/v1.4.1#"
+                  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                  SchemaLocation=""
+                  xsi:schemaLocation="dian:gov:co:facturaelectronica:NominaIndividual NominaIndividualElectronicaXSD.xsd">
+        <ext:UBLExtensions>
+
+        </ext:UBLExtensions>
+        <Periodo  FechaIngreso=""
+                  FechaRetiro=""
+                  FechaLiquidacionInicio="2021-07-01"
+                  FechaLiquidacionFin="2021-07-31"
+                  TiempoLaborado="211"
+                  FechaGen="2021-08-10"/>
+        <NumeroSecuenciaXML CodigoTrabajador="" Prefijo="NEPK-" Consecutivo="0001" Numero="NEPK-0001"/>
+        <LugarGeneracionXML Pais="CO" DepartamentoEstado="68" MunicipioCiudad="001" Idioma="es"/>
+        <ProveedorXML RazonSocial="PRESIK SAS" PrimerApellido="" SegundoApellido="" PrimerNombre="" OtrosNombres="" NIT="900803782" DV="2" SoftwareID="ebdbcdc4-f13c-4bb4-b3cf-5b72e852084e" SoftwareSC="dbab080c57a84c58c1cc6a255f711a2a179c7586eac5f4e25bcdf4c6c1a4dd9d54d5ec318964a0ad74a5e4379155e216"/>
+        <CodigoQR>https://catalogo-vpfe-hab.dian.gov.co/document/searchqr?documentkey=d36ed4f151d22481cc94a9e8d1a2d943ba23beeb493f4808c5c03f8f97ab19f4d777b406cb148bf111453801eb6c5caa</CodigoQR>
+        <InformacionGeneral Version="V1.0: Documento Soporte de Pago de Nómina Electrónica" Ambiente="2" TipoXML="102" CUNE="d36ed4f151d22481cc94a9e8d1a2d943ba23beeb493f4808c5c03f8f97ab19f4d777b406cb148bf111453801eb6c5caa" EncripCUNE="CUNE-SHA384" FechaGen="2021-08-10" HoraGen="20:48:20-05:00" PeriodoNomina="5" TipoMoneda="COP" TRM="0"/>
+        <Notas></Notas>
+        <Empleador RazonSocial="PRESIK SAS" PrimerApellido="" SegundoApellido="" PrimerNombre="" OtrosNombres="" NIT="900803782" DV="2" Pais="CO" DepartamentoEstado="68" MunicipioCiudad="001" Direccion="Cra 27 #37-33.  B. Mejoras Públicas Of. 517"/>
+        <Trabajador TipoTrabajador="02" SubTipoTrabajador="00" AltoRiesgoPension="false" TipoDocumento="31" NumeroDocumento="1098654783" PrimerApellido="FUQUEN" SegundoApellido="MURCIA" PrimerNombre="JOSE" OtrosNombres="ALEXANDER" LugarTrabajoPais="CO" LugarTrabajoDepartamentoEstado="68" LugarTrabajoMunicipioCiudad="001" LugarTrabajoDireccion="Cra 27 37-33  B. Mejoras Publicas Of 517" SalarioIntegral="false" TipoContrato="indefinite" Sueldo="1500000.0" CodigoTrabajador=""/>
+        <Pago Forma="1" Metodo="47" Banco="BANCOLOMBIA S.A." TipoCuenta="Cuenta de Ahorros" NumeroCuenta="79500021981"/>
+        <FechasPagos>
+          <FechaPago>2021-07-31</FechaPago>
+        </FechasPagos>
+        <Devengados>
+          <Basico DiasTrabajados="30" SueldoTrabajado="1600000.8"/>
+          <Transporte ViaticoManuAlojNS="110000.0"/>
+        </Devengados>
+        <Deducciones>
+          <Salud Porcentaje="4.00" Deduccion="64000.03"/>
+          <FondoPension Porcentaje="4.00" Deduccion="64000.03"/>
+        </Deducciones>
+        <DevengadosTotal>1816454.90</DevengadosTotal>
+        <DeduccionesTotal>128000.06</DeduccionesTotal>
+        <ComprobanteTotal>1688454.84</ComprobanteTotal>
+</NominaIndividual>
