@@ -3,15 +3,15 @@
 # Author: Cristhian Lancheros 29/09/2021
 NAME="strytond"
 DESC="Tryton"
-USER=sa
+USER=tecnocarnes01
 HOMEX=/home/${USER}
-NAME_ENV=tryton
+NAME_ENV=.venv/tryton
 VERSION="6.0"
-DAEMON="${HOMEX}/.venv/${NAME_ENV}/bin/trytond"
+DAEMON="${HOMEX}/${NAME_ENV}/bin/trytond"
 
 PIDFILE="/var/run/$NAME.pid"
 
-CONFIG="${HOMEX}/trytond.conf"
+CONFIG="${HOMEX}/${NAME_ENV}/trytond.conf"
 OPTIONS="-c $CONFIG"
 
 set -e
