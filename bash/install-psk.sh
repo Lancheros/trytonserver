@@ -6,7 +6,6 @@ echo "[INFO] Installing trytonpsk modules... "
 modules="
     account_co_pyme
     account_col
-    electronic_invoice_co
     account_voucher
     account_bank_statement
     party_personal
