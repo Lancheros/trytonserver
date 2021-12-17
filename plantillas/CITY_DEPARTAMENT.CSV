@@ -1,328 +1,328 @@
 code,name,department
-001,MedellÌn,05
-002,Abejorral,05
-004,AbriaquÌ,05
-021,AlejandrÌa,05
-030,Amag·,05
-031,Amalfi,05
-034,Andes,05
-036,AngelÛpolis,05
-038,Angostura,05
-040,AnorÌ,05
-042,SantafÈ de Antioquia,05
-044,Anza,05
-045,ApartadÛ,05
-051,Arboletes,05
-055,Argelia,05
-059,Armenia,05
-079,Barbosa,05
-086,Belmira,05
-088,Bello,05
-091,Betania,05
-093,Betulia,05
-101,Ciudad BolÌvar,05
-107,BriceÒo,05
-113,Buritic·,05
-120,C·ceres,05
-125,Caicedo,05
-129,Caldas,05
-134,Campamento,05
-138,CaÒasgordas,05
-142,CaracolÌ,05
-145,Caramanta,05
-147,Carepa,05
-148,El Carmen de Viboral,05
-150,Carolina,05
-154,Caucasia,05
-172,ChigorodÛ,05
-190,Cisneros,05
-197,Cocorn·,05
-206,ConcepciÛn,05
-209,Concordia,05
-212,Copacabana,05
-234,Dabeiba,05
-237,Don MatÌas,05
-240,EbÈjico,05
-250,El Bagre,05
-264,Entrerrios,05
-266,Envigado,05
-282,Fredonia,05
-284,Frontino,05
-306,Giraldo,05
-308,Girardota,05
-310,GÛmez Plata,05
-313,Granada,05
-315,Guadalupe,05
-318,Guarne,05
-321,Guatape,05
-347,Heliconia,05
-353,Hispania,05
-360,Itagui,05
-361,Ituango,05
-364,JardÌn,05
-368,JericÛ,05
-376,La Ceja,05
-380,La Estrella,05
-390,La Pintada,05
-400,La UniÛn,05
-411,Liborina,05
-425,Maceo,05
-440,Marinilla,05
-467,Montebello,05
-475,MurindÛ,05
-480,Mutat·,05
-483,NariÒo,05
-490,NecoclÌ,05
-495,NechÌ,05
-501,Olaya,05
-541,PeÒol,05
-543,Peque,05
-576,Pueblorrico,05
-579,Puerto BerrÌo,05
-585,Puerto Nare,05
-591,Puerto Triunfo,05
-604,Remedios,05
-607,Retiro,05
-615,Rionegro,05
-628,Sabanalarga,05
-631,Sabaneta,05
-642,Salgar,05
-647,San AndrÈs de CuerquÌa,05
-649,San Carlos,05
-652,San Francisco,05
-656,San JerÛnimo,05
-658,San JosÈ de la MontaÒa,05
-659,San Juan de Urab·,05
-660,San Luis,05
-664,San Pedro,05
-665,San Pedro de Uraba,05
-667,San Rafael,05
-670,San Roque,05
-674,San Vicente,05
-679,Santa B·rbara,05
-686,Santa Rosa de Osos,05
-690,Santo Domingo,05
-697,El Santuario,05
-736,Segovia,05
-756,Sonson,05
-761,Sopetr·n,05
-789,T·mesis,05
-790,Taraz·,05
-792,Tarso,05
-809,TitiribÌ,05
-819,Toledo,05
-837,Turbo,05
-842,Uramita,05
-847,Urrao,05
-854,Valdivia,05
-856,ValparaÌso,05
-858,VegachÌ,05
-861,Venecia,05
-873,VigÌa del Fuerte,05
-885,YalÌ,05
-887,Yarumal,05
-890,YolombÛ,05
-893,YondÛ,05
-895,Zaragoza,05
-001,Barranquilla,08
-078,Baranoa,08
-137,Campo de la Cruz,08
-141,Candelaria,08
-296,Galapa,08
-372,Juan de Acosta,08
-421,Luruaco,08
-433,Malambo,08
-436,ManatÌ,08
-520,Palmar de Varela,08
-549,PiojÛ,08
-558,Polonuevo,08
-560,Ponedera,08
-573,Puerto Colombia,08
-606,RepelÛn,08
-634,Sabanagrande,08
-638,Sabanalarga,08
-675,Santa LucÌa,08
-685,Santo Tom·s,08
-758,Soledad,08
-770,Suan,08
-832,Tubar·,08
-849,UsiacurÌ,08
-001,"Bogot·, D.C.",11
-001,Cartagena,13
-006,AchÌ,13
-030,Altos del Rosario,13
-042,Arenal,13
-052,Arjona,13
-062,Arroyohondo,13
-074,Barranco de Loba,13
+1,Medell√≠n,5
+2,Abejorral,5
+4,Abriaqu√≠,5
+21,Alejandr√≠a,5
+30,Amag√°,5
+31,Amalfi,5
+34,Andes,5
+36,Angel√≥polis,5
+38,Angostura,5
+40,Anor√≠,5
+42,Santaf√© de Antioquia,5
+44,Anza,5
+45,Apartad√≥,5
+51,Arboletes,5
+55,Argelia,5
+59,Armenia,5
+79,Barbosa,5
+86,Belmira,5
+88,Bello,5
+91,Betania,5
+93,Betulia,5
+101,Ciudad Bol√≠var,5
+107,Brice√±o,5
+113,Buritic√°,5
+120,C√°ceres,5
+125,Caicedo,5
+129,Caldas,5
+134,Campamento,5
+138,Ca√±asgordas,5
+142,Caracol√≠,5
+145,Caramanta,5
+147,Carepa,5
+148,El Carmen de Viboral,5
+150,Carolina,5
+154,Caucasia,5
+172,Chigorod√≥,5
+190,Cisneros,5
+197,Cocorn√°,5
+206,Concepci√≥n,5
+209,Concordia,5
+212,Copacabana,5
+234,Dabeiba,5
+237,Don Mat√≠as,5
+240,Eb√©jico,5
+250,El Bagre,5
+264,Entrerrios,5
+266,Envigado,5
+282,Fredonia,5
+284,Frontino,5
+306,Giraldo,5
+308,Girardota,5
+310,G√≥mez Plata,5
+313,Granada,5
+315,Guadalupe,5
+318,Guarne,5
+321,Guatape,5
+347,Heliconia,5
+353,Hispania,5
+360,Itagui,5
+361,Ituango,5
+364,Jard√≠n,5
+368,Jeric√≥,5
+376,La Ceja,5
+380,La Estrella,5
+390,La Pintada,5
+400,La Uni√≥n,5
+411,Liborina,5
+425,Maceo,5
+440,Marinilla,5
+467,Montebello,5
+475,Murind√≥,5
+480,Mutat√°,5
+483,Nari√±o,5
+490,Necocl√≠,5
+495,Nech√≠,5
+501,Olaya,5
+541,Pe√±ol,5
+543,Peque,5
+576,Pueblorrico,5
+579,Puerto Berr√≠o,5
+585,Puerto Nare,5
+591,Puerto Triunfo,5
+604,Remedios,5
+607,Retiro,5
+615,Rionegro,5
+628,Sabanalarga,5
+631,Sabaneta,5
+642,Salgar,5
+647,San Andr√©s de Cuerqu√≠a,5
+649,San Carlos,5
+652,San Francisco,5
+656,San Jer√≥nimo,5
+658,San Jos√© de la Monta√±a,5
+659,San Juan de Urab√°,5
+660,San Luis,5
+664,San Pedro,5
+665,San Pedro de Uraba,5
+667,San Rafael,5
+670,San Roque,5
+674,San Vicente,5
+679,Santa B√°rbara,5
+686,Santa Rosa de Osos,5
+690,Santo Domingo,5
+697,El Santuario,5
+736,Segovia,5
+756,Sonson,5
+761,Sopetr√°n,5
+789,T√°mesis,5
+790,Taraz√°,5
+792,Tarso,5
+809,Titirib√≠,5
+819,Toledo,5
+837,Turbo,5
+842,Uramita,5
+847,Urrao,5
+854,Valdivia,5
+856,Valpara√≠so,5
+858,Vegach√≠,5
+861,Venecia,5
+873,Vig√≠a del Fuerte,5
+885,Yal√≠,5
+887,Yarumal,5
+890,Yolomb√≥,5
+893,Yond√≥,5
+895,Zaragoza,5
+1,Barranquilla,8
+78,Baranoa,8
+137,Campo de la Cruz,8
+141,Candelaria,8
+296,Galapa,8
+372,Juan de Acosta,8
+421,Luruaco,8
+433,Malambo,8
+436,Manat√≠,8
+520,Palmar de Varela,8
+549,Pioj√≥,8
+558,Polonuevo,8
+560,Ponedera,8
+573,Puerto Colombia,8
+606,Repel√≥n,8
+634,Sabanagrande,8
+638,Sabanalarga,8
+675,Santa Luc√≠a,8
+685,Santo Tom√°s,8
+758,Soledad,8
+770,Suan,8
+832,Tubar√°,8
+849,Usiacur√≠,8
+1,Bogot√° D.C.,11
+1,Cartagena,13
+6,Ach√≠,13
+30,Altos del Rosario,13
+42,Arenal,13
+52,Arjona,13
+62,Arroyohondo,13
+74,Barranco de Loba,13
 140,Calamar,13
 160,Cantagallo,13
 188,Cicuco,13
-212,CÛrdoba,13
+212,C√≥rdoba,13
 222,Clemencia,13
-244,El Carmen de BolÌvar,13
+244,El Carmen de Bol√≠var,13
 248,El Guamo,13
-268,El PeÒÛn,13
+268,El Pe√±√≥n,13
 300,Hatillo de Loba,13
-430,MaganguÈ,13
+430,Magangu√©,13
 433,Mahates,13
 440,Margarita,13
-442,MarÌa la Baja,13
+442,Mar√≠a la Baja,13
 458,Montecristo,13
-468,MompÛs,13
+468,Momp√≥s,13
 473,Morales,13
-490,NorosÌ,13
+490,Noros√≠,13
 549,Pinillos,13
 580,Regidor,13
-600,RÌo Viejo,13
-620,San CristÛbal,13
+600,R√≠o Viejo,13
+620,San Crist√≥bal,13
 647,San Estanislao,13
 650,San Fernando,13
 654,San Jacinto,13
 655,San Jacinto del Cauca,13
 657,San Juan Nepomuceno,13
-667,San MartÌn de Loba,13
+667,San Mart√≠n de Loba,13
 670,San Pablo,13
 673,Santa Catalina,13
 683,Santa Rosa,13
 688,Santa Rosa del Sur,13
-744,SimitÌ,13
+744,Simit√≠,13
 760,Soplaviento,13
 780,Talaigua Nuevo,13
 810,Tiquisio,13
 836,Turbaco,13
-838,Turban·,13
+838,Turban√°,13
 873,Villanueva,13
 894,Zambrano,13
-001,Tunja,15
-022,Almeida,15
-047,Aquitania,15
-051,Arcabuco,15
-087,BelÈn,15
-090,Berbeo,15
-092,BetÈitiva,15
-097,Boavita,15
-104,Boyac·,15
-106,BriceÒo,15
+1,Tunja,15
+22,Almeida,15
+47,Aquitania,15
+51,Arcabuco,15
+87,Bel√©n,15
+90,Berbeo,15
+92,Bet√©itiva,15
+97,Boavita,15
+104,Boyac√°,15
+106,Brice√±o,15
 109,Buenavista,15
-114,Busbanz·,15
+114,Busbanz√°,15
 131,Caldas,15
 135,Campohermoso,15
 162,Cerinza,15
 172,Chinavita,15
-176,Chiquinquir·,15
+176,Chiquinquir√°,15
 180,Chiscas,15
 183,Chita,15
 185,Chitaraque,15
-187,Chivat·,15
-189,CiÈnega,15
-204,CÛmbita,15
+187,Chivat√°,15
+189,Ci√©nega,15
+204,C√≥mbita,15
 212,Coper,15
 215,Corrales,15
-218,CovarachÌa,15
-223,Cubar·,15
+218,Covarach√≠a,15
+223,Cubar√°,15
 224,Cucaita,15
-226,CuÌtiva,15
-232,ChÌquiza,15
+226,Cu√≠tiva,15
+232,Ch√≠quiza,15
 236,Chivor,15
 238,Duitama,15
 244,El Cocuy,15
 248,El Espino,15
 272,Firavitoba,15
 276,Floresta,15
-293,Gachantiv·,15
+293,Gachantiv√°,15
 296,Gameza,15
 299,Garagoa,15
 317,Guacamayas,15
 322,Guateque,15
-325,Guayat·,15
-332,G¸ic·n,15
+325,Guayat√°,15
+332,G√ºic√°n,15
 362,Iza,15
 367,Jenesano,15
-368,JericÛ,15
+368,Jeric√≥,15
 377,Labranzagrande,15
 380,La Capilla,15
 401,La Victoria,15
 403,La Uvita,15
 407,Villa de Leyva,15
 425,Macanal,15
-442,MaripÌ,15
+442,Marip√≠,15
 455,Miraflores,15
 464,Mongua,15
-466,MonguÌ,15
-469,Moniquir·,15
+466,Mongu√≠,15
+469,Moniquir√°,15
 476,Motavita,15
 480,Muzo,15
 491,Nobsa,15
-494,Nuevo ColÛn,15
-500,Oicat·,15
+494,Nuevo Col√≥n,15
+500,Oicat√°,15
 507,Otanche,15
 511,Pachavita,15
-514,P·ez,15
+514,P√°ez,15
 516,Paipa,15
 518,Pajarito,15
 522,Panqueba,15
 531,Pauna,15
 533,Paya,15
-537,Paz de RÌo,15
+537,Paz de R√≠o,15
 542,Pesca,15
 550,Pisba,15
-572,Puerto Boyac·,15
-580,QuÌpama,15
-599,RamiriquÌ,15
-600,R·quira,15
-621,RondÛn,15
-632,Saboy·,15
-638,S·chica,15
-646,Samac·,15
+572,Puerto Boyac√°,15
+580,Qu√≠pama,15
+599,Ramiriqu√≠,15
+600,R√°quira,15
+621,Rond√≥n,15
+632,Saboy√°,15
+638,S√°chica,15
+646,Samac√°,15
 660,San Eduardo,15
-664,San JosÈ de Pare,15
+664,San Jos√© de Pare,15
 667,San Luis de Gaceno,15
 673,San Mateo,15
 676,San Miguel de Sema,15
 681,San Pablo de Borbur,15
 686,Santana,15
-690,Santa MarÌa,15
+690,Santa Mar√≠a,15
 693,Santa Rosa de Viterbo,15
-696,Santa SofÌa,15
+696,Santa Sof√≠a,15
 720,Sativanorte,15
 723,Sativasur,15
 740,Siachoque,15
-753,Soat·,15
-755,Socot·,15
+753,Soat√°,15
+755,Socot√°,15
 757,Socha,15
 759,Sogamoso,15
 761,Somondoco,15
 762,Sora,15
-763,Sotaquir·,15
-764,Sorac·,15
-774,SusacÛn,15
-776,Sutamarch·n,15
+763,Sotaquir√°,15
+764,Sorac√°,15
+774,Susac√≥n,15
+776,Sutamarch√°n,15
 778,Sutatenza,15
 790,Tasco,15
 798,Tenza,15
-804,Tiban·,15
+804,Tiban√°,15
 806,Tibasosa,15
-808,Tinjac·,15
+808,Tinjac√°,15
 810,Tipacoque,15
 814,Toca,15
-816,Tog¸Ì,15
-820,TÛpaga,15
+816,Tog√º√≠,15
+820,T√≥paga,15
 822,Tota,15
-832,Tunungu·,15
-835,TurmequÈ,15
+832,Tunungu√°,15
+835,Turmequ√©,15
 837,Tuta,15
-839,Tutaz·,15
+839,Tutaz√°,15
 842,Umbita,15
 861,Ventaquemada,15
-879,Viracach·,15
+879,Viracach√°,15
 897,Zetaquira,15
-001,Manizales,17
-013,Aguadas,17
-042,Anserma,17
-050,Aranzazu,17
-088,Belalc·zar,17
-174,Chinchin·,17
+1,Manizales,17
+13,Aguadas,17
+42,Anserma,17
+50,Aranzazu,17
+88,Belalc√°zar,17
+174,Chinchin√°,17
 272,Filadelfia,17
 380,La Dorada,17
 388,La Merced,17
@@ -332,182 +332,182 @@ code,name,department
 446,Marulanda,17
 486,Neira,17
 495,Norcasia,17
-513,P·cora,17
+513,P√°cora,17
 524,Palestina,17
 541,Pensilvania,17
 614,Riosucio,17
 616,Risaralda,17
 653,Salamina,17
-662,Saman·,17
-665,San JosÈ,17
-777,SupÌa,17
+662,Saman√°,17
+665,San Jos√©,17
+777,Sup√≠a,17
 867,Victoria,17
-873,VillamarÌa,17
+873,Villamar√≠a,17
 877,Viterbo,17
-001,Florencia,18
-029,Albania,18
-094,BelÈn de los Andaquies,18
-150,Cartagena del Chair·,18
+1,Florencia,18
+29,Albania,18
+94,Bel√©n de los Andaquies,18
+150,Cartagena del Chair√°,18
 205,Curillo,18
 247,El Doncello,18
 256,El Paujil,18
-410,La MontaÒita,18
-460,Mil·n,18
+410,La Monta√±ita,18
+460,Mil√°n,18
 479,Morelia,18
 592,Puerto Rico,18
-610,San JosÈ del Fragua,18
-753,San Vicente del Cagu·n,18
+610,San Jos√© del Fragua,18
+753,San Vicente del Cagu√°n,18
 756,Solano,18
 785,Solita,18
-860,ValparaÌso,18
-001,Popay·n,19
-022,Almaguer,19
-050,Argelia,19
-075,Balboa,19
-100,BolÌvar,19
+860,Valpara√≠so,18
+1,Popay√°n,19
+22,Almaguer,19
+50,Argelia,19
+75,Balboa,19
+100,Bol√≠var,19
 110,Buenos Aires,19
-130,CajibÌo,19
+130,Cajib√≠o,19
 137,Caldono,19
 142,Caloto,19
 212,Corinto,19
 256,El Tambo,19
 290,Florencia,19
-300,GuachenÈ,19
+300,Guachen√©,19
 318,Guapi,19
-355,Inz·,19
-364,JambalÛ,19
+355,Inz√°,19
+364,Jambal√≥,19
 392,La Sierra,19
 397,La Vega,19
-418,LÛpez,19
+418,L√≥pez,19
 450,Mercaderes,19
 455,Miranda,19
 473,Morales,19
 513,Padilla,19
 517,Paez,19
-532,PatÌa,19
+532,Pat√≠a,19
 533,Piamonte,19
-548,PiendamÛ,19
+548,Piendam√≥,19
 573,Puerto Tejada,19
-585,PuracÈ,19
+585,Purac√©,19
 622,Rosas,19
-693,San Sebasti·n,19
+693,San Sebasti√°n,19
 698,Santander de Quilichao,19
 701,Santa Rosa,19
 743,Silvia,19
 760,Sotara,19
-780,Su·rez,19
+780,Su√°rez,19
 785,Sucre,19
-807,TimbÌo,19
-809,TimbiquÌ,19
+807,Timb√≠o,19
+809,Timbiqu√≠,19
 821,Toribio,19
-824,TotorÛ,19
+824,Totor√≥,19
 845,Villa Rica,19
-001,Valledupar,20
-011,Aguachica,20
-013,AgustÌn Codazzi,20
-032,Astrea,20
-045,Becerril,20
-060,Bosconia,20
+1,Valledupar,20
+11,Aguachica,20
+13,Agust√≠n Codazzi,20
+32,Astrea,20
+45,Becerril,20
+60,Bosconia,20
 175,Chimichagua,20
-178,Chiriguan·,20
-228,CurumanÌ,20
+178,Chiriguan√°,20
+228,Curuman√≠,20
 238,El Copey,20
 250,El Paso,20
 295,Gamarra,20
-310,Gonz·lez,20
+310,Gonz√°lez,20
 383,La Gloria,20
 400,La Jagua de Ibirico,20
 443,Manaure,20
 517,Pailitas,20
 550,Pelaya,20
 570,Pueblo Bello,20
-614,RÌo de Oro,20
+614,R√≠o de Oro,20
 621,La Paz,20
 710,San Alberto,20
 750,San Diego,20
-770,San MartÌn,20
+770,San Mart√≠n,20
 787,Tamalameque,20
-001,MonterÌa,23
-068,Ayapel,23
-079,Buenavista,23
-090,Canalete,23
-162,CeretÈ,23
-168,Chim·,23
-182,Chin˙,23
-189,CiÈnaga de Oro,23
+1,Monter√≠a,23
+68,Ayapel,23
+79,Buenavista,23
+90,Canalete,23
+162,Ceret√©,23
+168,Chim√°,23
+182,Chin√∫,23
+189,Ci√©naga de Oro,23
 300,Cotorra,23
 350,La Apartada,23
 417,Lorica,23
-419,Los CÛrdobas,23
+419,Los C√≥rdobas,23
 464,Momil,23
-466,MontelÌbano,23
-500,MoÒitos,23
+466,Montel√≠bano,23
+500,Mo√±itos,23
 555,Planeta Rica,23
 570,Pueblo Nuevo,23
 574,Puerto Escondido,23
 580,Puerto Libertador,23
-586,PurÌsima,23
-660,Sahag˙n,23
-670,San AndrÈs Sotavento,23
+586,Pur√≠sima,23
+660,Sahag√∫n,23
+670,San Andr√©s Sotavento,23
 672,San Antero,23
 675,San Bernardo del Viento,23
 678,San Carlos,23
-682,San JosÈ de UrÈ,23
+682,San Jos√© de Ur√©,23
 686,San Pelayo,23
 807,Tierralta,23
-815,TuchÌn,23
+815,Tuch√≠n,23
 855,Valencia,23
-001,Agua de Dios,25
-019,Alb·n,25
-035,Anapoima,25
-040,Anolaima,25
-053,Arbel·ez,25
-086,Beltr·n,25
-095,Bituima,25
-099,Bojac·,25
+1,Agua de Dios,25
+19,Alb√°n,25
+35,Anapoima,25
+40,Anolaima,25
+53,Arbel√°ez,25
+86,Beltr√°n,25
+95,Bituima,25
+99,Bojac√°,25
 120,Cabrera,25
 123,Cachipay,25
-126,Cajic·,25
-148,CaparrapÌ,25
+126,Cajic√°,25
+148,Caparrap√≠,25
 151,Caqueza,25
 154,Carmen de Carupa,25
-168,ChaguanÌ,25
-175,ChÌa,25
+168,Chaguan√≠,25
+175,Ch√≠a,25
 178,Chipaque,25
-181,ChoachÌ,25
-183,Chocont·,25
+181,Choach√≠,25
+183,Chocont√°,25
 200,Cogua,25
 214,Cota,25
-224,Cucunub·,25
+224,Cucunub√°,25
 245,El Colegio,25
-258,El PeÒÛn,25
+258,El Pe√±√≥n,25
 260,El Rosal,25
-269,Facatativ·,25
+269,Facatativ√°,25
 279,Fomeque,25
 281,Fosca,25
 286,Funza,25
-288,F˙quene,25
-290,Fusagasug·,25
+288,F√∫quene,25
+290,Fusagasug√°,25
 293,Gachala,25
-295,Gachancip·,25
-297,Gachet·,25
+295,Gachancip√°,25
+297,Gachet√°,25
 299,Gama,25
 307,Girardot,25
 312,Granada,25
-317,Guachet·,25
+317,Guachet√°,25
 320,Guaduas,25
 322,Guasca,25
-324,GuataquÌ,25
+324,Guataqu√≠,25
 326,Guatavita,25
 328,Guayabal de Siquima,25
 335,Guayabetal,25
-339,GutiÈrrez,25
-368,JerusalÈn,25
-372,JunÌn,25
+339,Guti√©rrez,25
+368,Jerusal√©n,25
+372,Jun√≠n,25
 377,La Calera,25
 386,La Mesa,25
 394,La Palma,25
-398,La PeÒa,25
+398,La Pe√±a,25
 402,La Vega,25
 407,Lenguazaque,25
 426,Macheta,25
@@ -515,8 +515,8 @@ code,name,department
 436,Manta,25
 438,Medina,25
 473,Mosquera,25
-483,NariÒo,25
-486,NemocÛn,25
+483,Nari√±o,25
+486,Nemoc√≥n,25
 488,Nilo,25
 489,Nimaima,25
 491,Nocaima,25
@@ -527,7 +527,7 @@ code,name,department
 530,Paratebueno,25
 535,Pasca,25
 572,Puerto Salgar,25
-580,PulÌ,25
+580,Pul√≠,25
 592,Quebradanegra,25
 594,Quetame,25
 596,Quipile,25
@@ -537,17 +537,17 @@ code,name,department
 649,San Bernardo,25
 653,San Cayetano,25
 658,San Francisco,25
-662,San Juan de RÌo Seco,25
+662,San Juan de R√≠o Seco,25
 718,Sasaima,25
-736,SesquilÈ,25
-740,SibatÈ,25
+736,Sesquil√©,25
+740,Sibat√©,25
 743,Silvania,25
 745,Simijaca,25
 754,Soacha,25
-758,SopÛ,25
+758,Sop√≥,25
 769,Subachoque,25
 772,Suesca,25
-777,Supat·,25
+777,Supat√°,25
 779,Susa,25
 781,Sutatausa,25
 785,Tabio,25
@@ -557,64 +557,64 @@ code,name,department
 805,Tibacuy,25
 807,Tibirita,25
 815,Tocaima,25
-817,Tocancip·,25
-823,TopaipÌ,25
-839,Ubal·,25
+817,Tocancip√°,25
+823,Topaip√≠,25
+839,Ubal√°,25
 841,Ubaque,25
 843,Villa de San Diego de Ubate,25
 845,Une,25
-851,⁄tica,25
+851,√ötica,25
 862,Vergara,25
-867,VianÌ,25
-871,VillagÛmez,25
-873,VillapinzÛn,25
+867,Vian√≠,25
+871,Villag√≥mez,25
+873,Villapinz√≥n,25
 875,Villeta,25
-878,Viot·,25
-885,YacopÌ,25
-898,ZipacÛn,25
-899,Zipaquir·,25
-001,QuibdÛ,27
-006,AcandÌ,27
-025,Alto Baudo,27
-050,Atrato,27
-073,BagadÛ,27
-075,BahÌa Solano,27
-077,Bajo BaudÛ,27
-086,BelÈn de Bajir·,27
-099,Bojaya,27
-135,El CantÛn del San Pablo,27
+878,Viot√°,25
+885,Yacop√≠,25
+898,Zipac√≥n,25
+899,Zipaquir√°,25
+1,Quibd√≥,27
+6,Acand√≠,27
+25,Alto Baudo,27
+50,Atrato,27
+73,Bagad√≥,27
+75,Bah√≠a Solano,27
+77,Bajo Baud√≥,27
+86,Bel√©n de Bajir√°,27
+99,Bojaya,27
+135,El Cant√≥n del San Pablo,27
 150,Carmen del Darien,27
-160,CÈrtegui,27
+160,C√©rtegui,27
 205,Condoto,27
 245,El Carmen de Atrato,27
 250,El Litoral del San Juan,27
 361,Istmina,27
-372,JuradÛ,27
-413,LlorÛ,27
+372,Jurad√≥,27
+413,Llor√≥,27
 425,Medio Atrato,27
-430,Medio BaudÛ,27
+430,Medio Baud√≥,27
 450,Medio San Juan,27
-491,NÛvita,27
-495,NuquÌ,27
-580,RÌo Iro,27
-600,RÌo Quito,27
+491,N√≥vita,27
+495,Nuqu√≠,27
+580,R√≠o Iro,27
+600,R√≠o Quito,27
 615,Riosucio,27
-660,San JosÈ del Palmar,27
-745,SipÌ,27
-787,TadÛ,27
-800,UnguÌa,27
-810,UniÛn Panamericana,27
-001,Neiva,41
-006,Acevedo,41
-013,Agrado,41
-016,Aipe,41
-020,Algeciras,41
-026,Altamira,41
-078,Baraya,41
+660,San Jos√© del Palmar,27
+745,Sip√≠,27
+787,Tad√≥,27
+800,Ungu√≠a,27
+810,Uni√≥n Panamericana,27
+1,Neiva,41
+6,Acevedo,41
+13,Agrado,41
+16,Aipe,41
+20,Algeciras,41
+26,Altamira,41
+78,Baraya,41
 132,Campoalegre,41
 206,Colombia,41
-244,ElÌas,41
-298,GarzÛn,41
+244,El√≠as,41
+298,Garz√≥n,41
 306,Gigante,41
 319,Guadalupe,41
 349,Hobo,41
@@ -622,7 +622,7 @@ code,name,department
 359,Isnos,41
 378,La Argentina,41
 396,La Plata,41
-483,N·taga,41
+483,N√°taga,41
 503,Oporapa,41
 518,Paicol,41
 524,Palermo,41
@@ -631,21 +631,21 @@ code,name,department
 551,Pitalito,41
 615,Rivera,41
 660,Saladoblanco,41
-668,San AgustÌn,41
-676,Santa MarÌa,41
+668,San Agust√≠n,41
+676,Santa Mar√≠a,41
 770,Suaza,41
 791,Tarqui,41
 797,Tesalia,41
 799,Tello,41
 801,Teruel,41
-807,Timan·,41
+807,Timan√°,41
 872,Villavieja,41
-885,Yaguar·,41
-001,Riohacha,44
-035,Albania,44
-078,Barrancas,44
-090,Dibulla,44
-098,DistracciÛn,44
+885,Yaguar√°,41
+1,Riohacha,44
+35,Albania,44
+78,Barrancas,44
+90,Dibulla,44
+98,Distracci√≥n,44
 110,El Molino,44
 279,Fonseca,44
 378,Hatonuevo,44
@@ -656,39 +656,39 @@ code,name,department
 847,Uribia,44
 855,Urumita,44
 874,Villanueva,44
-001,Santa Marta,47
-030,Algarrobo,47
-053,Aracataca,47
-058,AriguanÌ,47
+1,Santa Marta,47
+30,Algarrobo,47
+53,Aracataca,47
+58,Ariguan√≠,47
 161,Cerro San Antonio,47
 170,Chibolo,47
-189,CiÈnaga,47
+189,Ci√©naga,47
 205,Concordia,47
 245,El Banco,47
-258,El PiÒon,47
-268,El RetÈn,47
-288,FundaciÛn,47
+258,El Pi√±on,47
+268,El Ret√©n,47
+288,Fundaci√≥n,47
 318,Guamal,47
 460,Nueva Granada,47
 541,Pedraza,47
-545,PijiÒo del Carmen,47
+545,Piji√±o del Carmen,47
 551,Pivijay,47
 555,Plato,47
 570,Puebloviejo,47
 605,Remolino,47
 660,Sabanas de San Angel,47
 675,Salamina,47
-692,San Sebasti·n de Buenavista,47
-703,San ZenÛn,47
+692,San Sebasti√°n de Buenavista,47
+703,San Zen√≥n,47
 707,Santa Ana,47
-720,Santa B·rbara de Pinto,47
+720,Santa B√°rbara de Pinto,47
 745,Sitionuevo,47
 798,Tenerife,47
-960,Zapay·n,47
+960,Zapay√°n,47
 980,Zona Bananera,47
-001,Villavicencio,50
-006,AcacÌas,50
-110,Barranca de UpÌa,50
+1,Villavicencio,50
+6,Acac√≠as,50
+110,Barranca de Up√≠a,50
 124,Cabuyaro,50
 150,Castilla la Nueva,50
 223,Cubarral,50
@@ -699,111 +699,111 @@ code,name,department
 287,Fuente de Oro,50
 313,Granada,50
 318,Guamal,50
-325,Mapirip·n,50
+325,Mapirip√°n,50
 330,Mesetas,50
 350,La Macarena,50
 370,Uribe,50
-400,LejanÌas,50
+400,Lejan√≠as,50
 450,Puerto Concordia,50
-568,Puerto Gait·n,50
-573,Puerto LÛpez,50
+568,Puerto Gait√°n,50
+573,Puerto L√≥pez,50
 577,Puerto Lleras,50
 590,Puerto Rico,50
 606,Restrepo,50
 680,San Carlos de Guaroa,50
 683,San Juan de Arama,50
 686,San Juanito,50
-689,San MartÌn,50
+689,San Mart√≠n,50
 711,Vistahermosa,50
-001,Pasto,52
-019,Alb·n,52
-022,Aldana,52
-036,Ancuy·,52
-051,Arboleda,52
-079,Barbacoas,52
-083,BelÈn,52
+1,Pasto,52
+19,Alb√°n,52
+22,Aldana,52
+36,Ancuy√°,52
+51,Arboleda,52
+79,Barbacoas,52
+83,Bel√©n,52
 110,Buesaco,52
-203,ColÛn,52
+203,Col√≥n,52
 207,Consaca,52
 210,Contadero,52
-215,CÛrdoba,52
+215,C√≥rdoba,52
 224,Cuaspud,52
 227,Cumbal,52
 233,Cumbitara,52
-240,Chachag¸Ì,52
+240,Chachag√º√≠,52
 250,El Charco,52
-254,El PeÒol,52
+254,El Pe√±ol,52
 256,El Rosario,52
-258,El TablÛn de GÛmez,52
+258,El Tabl√≥n de G√≥mez,52
 260,El Tambo,52
 287,Funes,52
 317,Guachucal,52
 320,Guaitarilla,52
-323,Gualmat·n,52
+323,Gualmat√°n,52
 352,Iles,52
-354,ImuÈs,52
+354,Imu√©s,52
 356,Ipiales,52
 378,La Cruz,52
 381,La Florida,52
 385,La Llanada,52
 390,La Tola,52
-399,La UniÛn,52
+399,La Uni√≥n,52
 405,Leiva,52
 411,Linares,52
 418,Los Andes,52
-427,Mag¸i,52
+427,Mag√ºi,52
 435,Mallama,52
 473,Mosquera,52
-480,NariÒo,52
+480,Nari√±o,52
 490,Olaya Herrera,52
 506,Ospina,52
 520,Francisco Pizarro,52
 540,Policarpa,52
-560,PotosÌ,52
+560,Potos√≠,52
 565,Providencia,52
 573,Puerres,52
 585,Pupiales,52
 612,Ricaurte,52
-621,Roberto Pay·n,52
+621,Roberto Pay√°n,52
 678,Samaniego,52
-683,Sandon·,52
+683,Sandon√°,52
 685,San Bernardo,52
 687,San Lorenzo,52
 693,San Pablo,52
 694,San Pedro de Cartago,52
-696,Santa B·rbara,52
+696,Santa B√°rbara,52
 699,Santacruz,52
 720,Sapuyes,52
 786,Taminango,52
 788,Tangua,52
 835,San Andres de Tumaco,52
-838,T˙querres,52
+838,T√∫querres,52
 885,Yacuanquer,52
-001,C˙cuta,54
-003,Abrego,54
-051,Arboledas,54
-099,Bochalema,54
+1,C√∫cuta,54
+3,Abrego,54
+51,Arboledas,54
+99,Bochalema,54
 109,Bucarasica,54
-125,C·cota,54
-128,Cachir·,54
-172,Chin·cota,54
-174,Chitag·,54
-206,ConvenciÛn,54
+125,C√°cota,54
+128,Cachir√°,54
+172,Chin√°cota,54
+174,Chitag√°,54
+206,Convenci√≥n,54
 223,Cucutilla,54
 239,Durania,54
 245,El Carmen,54
 250,El Tarra,54
 261,El Zulia,54
 313,Gramalote,54
-344,HacarÌ,54
-347,Herr·n,54
+344,Hacar√≠,54
+347,Herr√°n,54
 377,Labateca,54
 385,La Esperanza,54
 398,La Playa,54
 405,Los Patios,54
 418,Lourdes,54
 480,Mutiscua,54
-498,OcaÒa,54
+498,Oca√±a,54
 518,Pamplona,54
 520,Pamplonita,54
 553,Puerto Santander,54
@@ -815,87 +815,87 @@ code,name,department
 720,Sardinata,54
 743,Silos,54
 800,Teorama,54
-810,Tib˙,54
+810,Tib√∫,54
 820,Toledo,54
 871,Villa Caro,54
 874,Villa del Rosario,54
-001,Armenia,63
+1,Armenia,63
 111,Buenavista,63
 130,Calarca,63
 190,Circasia,63
-212,CÛrdoba,63
+212,C√≥rdoba,63
 272,Filandia,63
-302,GÈnova,63
+302,G√©nova,63
 401,La Tebaida,63
 470,Montenegro,63
 548,Pijao,63
 594,Quimbaya,63
 690,Salento,63
-001,Pereira,66
-045,ApÌa,66
-075,Balboa,66
-088,BelÈn de UmbrÌa,66
+1,Pereira,66
+45,Ap√≠a,66
+75,Balboa,66
+88,Bel√©n de Umbr√≠a,66
 170,Dosquebradas,66
-318,Gu·tica,66
+318,Gu√°tica,66
 383,La Celia,66
 400,La Virginia,66
 440,Marsella,66
-456,MistratÛ,66
+456,Mistrat√≥,66
 572,Pueblo Rico,66
-594,QuinchÌa,66
+594,Quinch√≠a,66
 682,Santa Rosa de Cabal,66
 687,Santuario,66
-001,Bucaramanga,68
-013,Aguada,68
-020,Albania,68
-051,Aratoca,68
-077,Barbosa,68
-079,Barichara,68
-081,Barrancabermeja,68
-092,Betulia,68
-101,BolÌvar,68
+1,Bucaramanga,68
+13,Aguada,68
+20,Albania,68
+51,Aratoca,68
+77,Barbosa,68
+79,Barichara,68
+81,Barrancabermeja,68
+92,Betulia,68
+101,Bol√≠var,68
 121,Cabrera,68
 132,California,68
 147,Capitanejo,68
-152,CarcasÌ,68
-160,Cepit·,68
+152,Carcas√≠,68
+160,Cepit√°,68
 162,Cerrito,68
-167,Charal·,68
+167,Charal√°,68
 169,Charta,68
 176,Chima,68
-179,Chipat·,68
+179,Chipat√°,68
 190,Cimitarra,68
-207,ConcepciÛn,68
+207,Concepci√≥n,68
 209,Confines,68
-211,ContrataciÛn,68
+211,Contrataci√≥n,68
 217,Coromoro,68
-229,CuritÌ,68
-235,El Carmen de ChucurÌ,68
+229,Curit√≠,68
+235,El Carmen de Chucur√≠,68
 245,El Guacamayo,68
-250,El PeÒÛn,68
-255,El PlayÛn,68
+250,El Pe√±√≥n,68
+255,El Play√≥n,68
 264,Encino,68
 266,Enciso,68
-271,Flori·n,68
+271,Flori√°n,68
 276,Floridablanca,68
-296,Gal·n,68
+296,Gal√°n,68
 298,Gambita,68
-307,GirÛn,68
+307,Gir√≥n,68
 318,Guaca,68
 320,Guadalupe,68
-322,Guapot·,68
-324,Guavat·,68
-327,G¸epsa,68
+322,Guapot√°,68
+324,Guavat√°,68
+327,G√ºepsa,68
 344,Hato,68
-368,Jes˙s MarÌa,68
-370,Jord·n,68
+368,Jes√∫s Mar√≠a,68
+370,Jord√°n,68
 377,La Belleza,68
-385,Land·zuri,68
+385,Land√°zuri,68
 397,La Paz,68
-406,LebrÌja,68
+406,Lebr√≠ja,68
 418,Los Santos,68
 425,Macaravita,68
-432,M·laga,68
+432,M√°laga,68
 444,Matanza,68
 464,Mogotes,68
 468,Molagavita,68
@@ -904,7 +904,7 @@ code,name,department
 502,Onzaga,68
 522,Palmar,68
 524,Palmas del Socorro,68
-533,P·ramo,68
+533,P√°ramo,68
 547,Piedecuesta,68
 549,Pinchote,68
 572,Puente Nacional,68
@@ -912,61 +912,61 @@ code,name,department
 575,Puerto Wilches,68
 615,Rionegro,68
 655,Sabana de Torres,68
-669,San AndrÈs,68
+669,San Andr√©s,68
 673,San Benito,68
 679,San Gil,68
-682,San JoaquÌn,68
-684,San JosÈ de Miranda,68
+682,San Joaqu√≠n,68
+684,San Jos√© de Miranda,68
 686,San Miguel,68
-689,San Vicente de ChucurÌ,68
-705,Santa B·rbara,68
-720,Santa Helena del OpÛn,68
+689,San Vicente de Chucur√≠,68
+705,Santa B√°rbara,68
+720,Santa Helena del Op√≥n,68
 745,Simacota,68
 755,Socorro,68
 770,Suaita,68
 773,Sucre,68
-780,Surat·,68
+780,Surat√°,68
 820,Tona,68
-855,Valle de San JosÈ,68
-861,VÈlez,68
+855,Valle de San Jos√©,68
+861,V√©lez,68
 867,Vetas,68
 872,Villanueva,68
 895,Zapatoca,68
-001,Sincelejo,70
+1,Sincelejo,70
 110,Buenavista,70
 124,Caimito,70
 204,Coloso,70
 215,Corozal,70
-221,CoveÒas,70
-230,Chal·n,70
+221,Cove√±as,70
+230,Chal√°n,70
 233,El Roble,70
 235,Galeras,70
 265,Guaranda,70
-400,La UniÛn,70
+400,La Uni√≥n,70
 418,Los Palmitos,70
 429,Majagual,70
 473,Morroa,70
 508,Ovejas,70
 523,Palmito,70
-670,SampuÈs,70
+670,Sampu√©s,70
 678,San Benito Abad,70
 702,San Juan de Betulia,70
 708,San Marcos,70
 713,San Onofre,70
 717,San Pedro,70
-742,San Luis de SincÈ,70
+742,San Luis de Sinc√©,70
 771,Sucre,70
-820,Santiago de Tol˙,70
-823,Tol˙ Viejo,70
-001,IbaguÈ,73
-024,Alpujarra,73
-026,Alvarado,73
-030,Ambalema,73
-043,Anzo·tegui,73
-055,Armero,73
-067,Ataco,73
+820,Santiago de Tol√∫,70
+823,Tol√∫ Viejo,70
+1,Ibagu√©,73
+24,Alpujarra,73
+26,Alvarado,73
+30,Ambalema,73
+43,Anzo√°tegui,73
+55,Armero,73
+67,Ataco,73
 124,Cajamarca,73
-148,Carmen de Apical·,73
+148,Carmen de Apical√°,73
 152,Casabianca,73
 168,Chaparral,73
 200,Coello,73
@@ -981,8 +981,8 @@ code,name,department
 347,Herveo,73
 349,Honda,73
 352,Icononzo,73
-408,LÈrida,73
-411,LÌbano,73
+408,L√©rida,73
+411,L√≠bano,73
 443,Mariquita,73
 449,Melgar,73
 461,Murillo,73
@@ -992,25 +992,25 @@ code,name,department
 547,Piedras,73
 555,Planadas,73
 563,Prado,73
-585,PurificaciÛn,73
+585,Purificaci√≥n,73
 616,Rioblanco,73
 622,Roncesvalles,73
 624,Rovira,73
-671,SaldaÒa,73
+671,Salda√±a,73
 675,San Antonio,73
 678,San Luis,73
 686,Santa Isabel,73
-770,Su·rez,73
+770,Su√°rez,73
 854,Valle de San Juan,73
 861,Venadillo,73
 870,Villahermosa,73
 873,Villarrica,73
-001,Cali,76
-020,Alcal·,76
-036,AndalucÌa,76
-041,Ansermanuevo,76
-054,Argelia,76
-100,BolÌvar,76
+1,Cali,76
+20,Alcal√°,76
+36,Andaluc√≠a,76
+41,Ansermanuevo,76
+54,Argelia,76
+100,Bol√≠var,76
 109,Buenaventura,76
 111,Guadalajara de Buga,76
 113,Bugalagrande,76
@@ -1019,97 +1019,97 @@ code,name,department
 130,Candelaria,76
 147,Cartago,76
 233,Dagua,76
-243,El ¡guila,76
+243,El √Åguila,76
 246,El Cairo,76
 248,El Cerrito,76
 250,El Dovio,76
 275,Florida,76
 306,Ginebra,76
-318,GuacarÌ,76
-364,JamundÌ,76
+318,Guacar√≠,76
+364,Jamund√≠,76
 377,La Cumbre,76
-400,La UniÛn,76
+400,La Uni√≥n,76
 403,La Victoria,76
 497,Obando,76
 520,Palmira,76
 563,Pradera,76
 606,Restrepo,76
-616,RiofrÌo,76
+616,Riofr√≠o,76
 622,Roldanillo,76
 670,San Pedro,76
 736,Sevilla,76
 823,Toro,76
 828,Trujillo,76
-834,Tulu·,76
+834,Tulu√°,76
 845,Ulloa,76
 863,Versalles,76
 869,Vijes,76
 890,Yotoco,76
 892,Yumbo,76
 895,Zarzal,76
-001,Arauca,81
-065,Arauquita,81
+1,Arauca,81
+65,Arauquita,81
 220,Cravo Norte,81
 300,Fortul,81
-591,Puerto RondÛn,81
+591,Puerto Rond√≥n,81
 736,Saravena,81
 794,Tame,81
-001,Yopal,85
-010,Aguazul,85
-015,Chameza,85
+1,Yopal,85
+10,Aguazul,85
+15,Chameza,85
 125,Hato Corozal,85
 136,La Salina,85
-139,ManÌ,85
+139,Man√≠,85
 162,Monterrey,85
-225,NunchÌa,85
-230,OrocuÈ,85
+225,Nunch√≠a,85
+230,Orocu√©,85
 250,Paz de Ariporo,85
 263,Pore,85
 279,Recetor,85
 300,Sabanalarga,85
-315,S·cama,85
+315,S√°cama,85
 325,San Luis de Palenque,85
-400,T·mara,85
+400,T√°mara,85
 410,Tauramena,85
 430,Trinidad,85
 440,Villanueva,85
-001,Mocoa,86
-219,ColÛn,86
+1,Mocoa,86
+219,Col√≥n,86
 320,Orito,86
-568,Puerto AsÌs,86
+568,Puerto As√≠s,86
 569,Puerto Caicedo,86
-571,Puerto Guzm·n,86
-573,LeguÌzamo,86
+571,Puerto Guzm√°n,86
+573,Legu√≠zamo,86
 749,Sibundoy,86
 755,San Francisco,86
 757,San Miguel,86
 760,Santiago,86
 865,Valle del Guamuez,86
-885,VillagarzÛn,86
-001,San AndrÈs,88
+885,Villagarz√≥n,86
+1,San Andr√©s,88
 564,Providencia,88
-001,Leticia,91
+1,Leticia,91
 263,El Encanto,91
 405,La Chorrera,91
 407,La Pedrera,91
 430,La Victoria,91
-460,Miriti - Paran·,91
-530,Puerto AlegrÌa,91
+460,Miriti - Paran√°,91
+530,Puerto Alegr√≠a,91
 536,Puerto Arica,91
-540,Puerto NariÒo,91
+540,Puerto Nari√±o,91
 669,Puerto Santander,91
-798,Tarapac·,91
-001,InÌrida,94
+798,Tarapac√°,91
+1,In√≠rida,94
 343,Barranco Minas,94
 663,Mapiripana,94
-001,San JosÈ del Guaviare,95
-015,Calamar,95
-025,El Retorno,95
+1,San Jos√© del Guaviare,95
+15,Calamar,95
+25,El Retorno,95
 200,Miraflores,95
-001,Mit˙,97
+1,Mit√∫,97
 161,Caruru,97
 666,Taraira,97
-001,Puerto CarreÒo,99
+1,Puerto Carre√±o,99
 524,La Primavera,99
-624,Santa RosalÌa,99
+624,Santa Rosal√≠a,99
 773,Cumaribo,99
