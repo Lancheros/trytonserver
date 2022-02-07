@@ -9,7 +9,6 @@ modules="
     account_stock_latin
     account_voucher
     company_department
-    electronic_invoice_co
     electronic_payroll
     email
     invoice_report
