@@ -9,7 +9,7 @@ current_date_time="`date +%Y%m%d%H%M%S`";
 # dump
 for database in ${databases}
     do
-        backups_path="~/.backups/$database"
+        backups_path="var/lib/postgresql/backups/$database"
         pg_dump $database > $backups_path/$current_date_time.sql;
     
         # get size of dump
@@ -47,5 +47,5 @@ for database in ${databases}
         fi
 
         # sending email
-        curl --url 'smtps://smtp.gmail.com:465' --ssl-reqd --mail-from 'notificaciones@cdstecno.com' --mail-rcpt 'clancheros@cdstecno.com' --upload-file $backups_path/$current_date_time.txt --user 'notificaciones@cdstecno.com:98642443.Asd' --insecure
+        #curl --url 'smtps://smtp.gmail.com:465' --ssl-reqd --mail-from 'notificaciones@cdstecno.com' --mail-rcpt 'clancheros@cdstecno.com' --upload-file $backups_path/$current_date_time.txt --user 'notificaciones@cdstecno.com:98642443.Asd' --insecure
     done
